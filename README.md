@@ -10,3 +10,11 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 2. As browser for development I recommend [Chrome](https://www.google.com/chrome/) because it supports official [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 3. Install dependencies with *npm install* (called in main project directory)
 4. To run the app locally call *npx vite* (alias: *npm run dev*) or *npx vite --port <specify_port>*
+
+## Style convention
+
+Project has *.vscode/settings.json* to impose certain typescript formatting on file save. If you use different IDE than VS Code, please config below convention into your preferred IDE.
+
+Convention:
+
+1. When semicolon is optional: use it anyway, for example: *import { expect } from 'vitest';*
