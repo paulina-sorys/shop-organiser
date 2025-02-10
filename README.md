@@ -1,8 +1,12 @@
-# Vue 3 + TypeScript + Vite
+# shop-organiser
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Tech setup
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+1. [Vue 3](https://vuejs.org/guide/introduction.html): JavaScript framework for building user interfaces.
+2. [Vite](https://v2.vitejs.dev/guide): a build tool which glues everything together.
+3. [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html): wrapper around JavaScript.
+4. [Vitest](https://vitest.dev/guide/): unit testing framework (test runner).
+5. [Vue Test Utils](https://test-utils.vuejs.org): set of utility functions aimed to simplify testing Vue.js components.
 
 ## Local development Guide
 
